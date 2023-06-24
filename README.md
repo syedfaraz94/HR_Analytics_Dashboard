@@ -20,7 +20,7 @@ We are  using the Excel sheet provided by HR manager Pinali to understand their 
 __Important HR Jargons__
 <br>
 
-![image](Images/Jargons.png)
+![image](Images/Attendabce key.png)
 
 <br>
 
