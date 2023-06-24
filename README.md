@@ -119,6 +119,6 @@ If you want to see my __Visuals and its working in detail__ . So , Kindly  visit
 # <h2 id="link6">UI/UX Design</h2>
 <br>
 
-![image](Images/HR_Final_Dashboard.png)
+![image](Images/HR_Final_Dashboard.JPG)
 
 <br>
